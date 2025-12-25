@@ -162,7 +162,7 @@
 
 - Subduction zones involve denser oceanic plates sinking beneath lighter continental plates.
 - In oceanic-oceanic collision- Benioff zone melts in mantle and volcano forms.
-  <img src="./images/plates.jpg" alt="Plate Collision Diagram" width="300">
+<img src="./images/plates.jpg" alt="Plate Collision Diagram" width="300">
 
 **Divergent Boundaries and Landforms**
 

@@ -229,4 +229,4 @@
 - Core is divided into **liquid outer core and solid inner core**.
 - Change in wave velocity helps identify boundaries (Moho, Gutenberg, Lehmann).
 
-![Alt text](./images/earth_waves.jpg "Optional title")
+<img src="./images/earth_waves.jpg" alt="earth waves" width="300">
