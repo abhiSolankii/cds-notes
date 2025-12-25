@@ -52,10 +52,10 @@
 4. **Subsurface Layer**
    - Transition layer below surface
 
-**Surface & Atmospheric Layers** 5. **Photosphere (Surface)**
-
-- Visible surface
-- Emits sunlight
+**Surface & Atmospheric Layers** 
+5. **Photosphere (Surface)**
+   - Visible surface
+   - Emits sunlight
 
 6. **Chromosphere (Atmosphere)**
    - Reddish layer above photosphere
@@ -66,18 +66,12 @@
 
 ###### 🌈 **Solar Radiation**
 
-- Gamma rays
-- X-rays
-- Ultraviolet rays
-- Visible light
-- Infrared
-- Microwaves
-- Radio waves  
-  _(Most harmful radiation blocked by Earth’s atmosphere)_
+- Gamma rays, X-rays, Ultraviolet rays, Visible light, Infrared, Microwaves, Radio waves
+- _(Most harmful radiation blocked by Earth’s atmosphere)_
 
 ##### **Planets**
 
-- A celestial body moving in elleptical orbit around a star is known as a planet. Planters are separated by a Asteroid belt. Kuiper belt is outer most planet. All planets come inside Kuiper belt including Pluto.
+- A celestial body moving in elleptical orbit around a star is known as a planet. Planters are separated by a Asteroid belt. Kuiper belt is outer most belt. All planets come inside Kuiper belt including Pluto.
 - **8 Planets:** Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
 
 ##### 🪨 **Inner Planets (Till Mars)**
@@ -171,10 +165,10 @@
 - **Perihelion**:Condition when Earth is nearest to the Sun (≈ 147.1 million km). Occurs around 3 January.
 - **Aphelion**: Condition when Earth is farthest from the Sun (≈ 152.1 million km). Occurs around 4 July.
 - **Solstices & Equinoxes**:
-  - ummer Solstice: 21 June
-  - Winter Solstice: 22 December, Summer Solstice 22 June.
-  - **Vernal Equinox**: 21 March
-  - **Autumnal Equinox**: 23 September
+  - Summer Solstice: 21 June
+  - Winter Solstice: 22 December
+  - Vernal Equinox: 21 March
+  - Autumnal Equinox: 23 September
 - **Movement of vertical sun rays (month-wise)**:
   - 21 March (Vernal Equinox): Sun overhead at Equator
   - March → June: Sun shifts northward
